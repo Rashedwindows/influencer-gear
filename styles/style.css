@@ -30,6 +30,7 @@ img{
 }
 .header_text h3{
     font-size: 24px;
+    color: #383a3b;
 }
 .banner{
     display: flex;
@@ -42,6 +43,19 @@ img{
 .banner_content h1 {
     font-size: 50px;
     font-weight: 700;
+    color: #383a3b;
+}
+.banner_content button {
+    background: #e22e6d;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    margin-top: 15px;
+    border-radius: 30px;
+    cursor: pointer;
 }
 .banner_img{
     width: 40%;
