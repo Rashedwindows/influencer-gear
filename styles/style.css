@@ -91,6 +91,10 @@ img{
     color: #171c1a;
     margin-bottom: 8px;
 }
+.popular_item p{
+    color: #797982;
+    font-weight: 500;
+}
 .ratings{
     margin-bottom: 5px;
 }
@@ -98,6 +102,6 @@ img{
     color: orange;
 }
 .ratings .ratting_count {
-    color: #171c1a;
+    color: #797982;
     font-weight: 500;
 }
