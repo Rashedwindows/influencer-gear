@@ -1,5 +1,5 @@
 /* =========== Google fonts =========== */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;700&display=swap');
 /* =========== Google fonts =========== */
 
 
@@ -30,4 +30,19 @@ img{
 }
 .header_text h3{
     font-size: 24px;
+}
+.banner{
+    display: flex;
+    align-items: center;
+    gap: 5%;
+}
+.banner_content{
+    width: 55%;
+}
+.banner_content h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+.banner_img{
+    width: 40%;
 }
