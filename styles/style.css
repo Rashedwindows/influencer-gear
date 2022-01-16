@@ -64,6 +64,15 @@ Header CSS
 .banner_img{
     width: 40%;
 }
+.pagination {
+    display: flex;
+    justify-content: end;
+}
+.pagination p{
+    color: #e22e6d;
+    font-weight: 600;
+    cursor: pointer;
+}
 
 
 
