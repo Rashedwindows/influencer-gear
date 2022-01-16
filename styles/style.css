@@ -19,3 +19,15 @@ img{
     width: 1100px;
     margin: 0 auto;
 }
+.sectionMargin{
+    margin-bottom: 70px;
+}
+
+
+/* ================ Header CSS ================ */
+.header_text{
+    margin-top: 30px;
+}
+.header_text h3{
+    font-size: 24px;
+}
